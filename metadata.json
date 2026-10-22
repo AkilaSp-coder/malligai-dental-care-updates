@@ -1,0 +1,6 @@
+{
+  "name": "Malligai Dental Care",
+  "description": "Premier multispeciality dental clinic with experienced dentists, advanced intraoral 3D scanning, digital X-rays, smile design, BPS dentures, and painless treatments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
